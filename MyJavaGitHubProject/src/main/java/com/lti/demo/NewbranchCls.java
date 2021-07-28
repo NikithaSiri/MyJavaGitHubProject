@@ -5,5 +5,6 @@ public class NewbranchCls {
 		void show()
 		{
 			System.out.println("The Branch->switch to -> new branch");
+			System.out.println("hello");
 		}
 }
